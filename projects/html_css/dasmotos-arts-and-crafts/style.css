@@ -1,0 +1,49 @@
+body,
+html {
+  font-family: "Helvetica";
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  color: khaki;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+header {
+  background-image: url("/img/pattern.webp");
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+#brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  background-color: skyblue;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.text-blue {
+  color: blue;
+}
